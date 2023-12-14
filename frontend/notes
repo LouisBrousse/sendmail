@@ -1,0 +1,12 @@
+faire un html
+
+
+express qui reago
+
+app.post pour récupérer l'adresse
+
+bodyparser
+
+req.body (email, sugject, message)
+
+node mailer, librairie pour faire les mails
